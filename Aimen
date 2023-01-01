@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Accepting the 365 days of code";
+}
